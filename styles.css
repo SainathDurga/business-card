@@ -1,0 +1,22 @@
+
+body {
+	margin: 20px;
+	font-family: verdana;
+}
+
+.card {
+	display: flex;
+	width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	background: #ddebf8;
+	justify-content: space-around;
+	border-bottom: 6px solid #d8cefe;
+	text-align: center;
+	color: #2b2839;
+}
+
+.avatar {
+	width: 150px;
+}
+
